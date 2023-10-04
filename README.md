@@ -19,7 +19,7 @@ För att köra projektet, kör:
 
 ### Kompilera .class filer
 
-Vod utförrda ändringar måste .class filerna kompileras om, kör då följande:
+Vid utförda ändringar måste .class filerna kompileras om, kör då följande:
 >javac -d bin src/com/company/*.java
 
 
