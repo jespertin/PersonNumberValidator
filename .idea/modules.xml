@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JesperTinellOmegapointValidator.iml" filepath="$PROJECT_DIR$/JesperTinellOmegapointValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonNumberValidator.iml" filepath="$PROJECT_DIR$/PersonNumberValidator.iml" />
     </modules>
   </component>
 </project>

@@ -1,11 +1,26 @@
-Projektet är skapat med Java 17
+Projektet är skapat i java 17, måste vara installerat för att köras.
 
-### Instruktioner
+## Instruktioner för uppstart
 
-Navigera till projektets src foldern.
+### Bat fil
+Dubbelklicka run.bat filen i projektets root
 
-Kör "java com.company.Main"
+### Kör skript
+Navigera till projektets root folder
 
+För att köra projektet, kör:
+
+> java -cp bin com.company.Main
+
+
+### Kör direkt i Intelij
+
+Öppna upp projektet i intelij och kör direkt i dess terminal.
+
+### Kompilera .class filer
+
+Vod utförrda ändringar måste .class filerna kompileras om, kör då följande:
+>javac -d bin src/com/company/*.java
 
 
 
